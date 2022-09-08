@@ -1,4 +1,6 @@
-HTML exercise project of a basic recipe website.
+HTML Exercise
+
+basic recipe website.
 
 Requirements
 <ul>
@@ -20,6 +22,7 @@ Requirements
             <li>Ordered list</li>
             </ul>
         </ul>
+</ul>
 
 Publish website on Github
 
