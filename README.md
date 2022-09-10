@@ -25,6 +25,3 @@ Requirements
 </ul>
 
 Publish website on Github
-
-LATER: Style with CSS
-
